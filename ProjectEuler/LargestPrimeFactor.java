@@ -2,7 +2,7 @@ package ProjectEuler;
 
 import java.util.Scanner;
 
-public class LargestPrimeFactor_Problem3{
+public class LargestPrimeFactor{
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
